@@ -1,6 +1,6 @@
 # kerplunk-foursquare-place
 
-[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. 
+[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. Turn venues from Foursquare checkins into Place objects
 
 [![Build Status](https://travis-ci.org/brianshaler/kerplunk-foursquare-place.svg)](https://travis-ci.org/brianshaler/kerplunk-foursquare-place)
 [![npm version](https://img.shields.io/npm/v/kerplunk-foursquare-place.svg)](https://www.npmjs.com/package/kerplunk-foursquare-place)
