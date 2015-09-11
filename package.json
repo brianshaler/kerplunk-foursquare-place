@@ -2,7 +2,7 @@
   "name": "kerplunk-foursquare-place",
   "displayName": "Foursquare places",
   "description": "Turn venues from Foursquare checkins into Place objects",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "kerplunk": {
     "dependencies": [
       "kerplunk-place",
